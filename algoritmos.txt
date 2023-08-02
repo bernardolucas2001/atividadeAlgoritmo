@@ -1,0 +1,26 @@
+Algoritmo de Soma de 2 números:
+
+1) Digite um número;
+2) Digite um outro número;
+3)Some os dois numeros anteriores;
+4)Obtenha a resposta da soma. 
+
+Algoritmo para fazer um bolo de whey protein
+
+1) Compre os seguintes ingredientes:
+5 ovos
+2 xícaras de aveia
+2 colheres de sopa de fermento em pó
+5 bananas
+2 scoopes de wey protein.
+papel manteiga 
+azeite de oliva
+
+2) tenha posse de um liquidificador e de uma travessa e de um forno;
+3) Bata no liquidificador, os ovos e as bananas;
+4)Adicione a aveia;
+5)Adicione o whey e misture, até ficar unificado;
+6)Adicione o fermento e misture com uma colher; 
+7)Em uma travessa, coloque o papel manteiga e unte com azeite de oliva;
+8)Coloque a massa na travessa e leve ao forno por, aproximadamente, 30 minutos.
+
